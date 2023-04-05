@@ -11,6 +11,10 @@ footer {
 .carousel {
     max-width: 60%;
 }
+
+#myTable {
+    width: 100% !important;
+}
 /*
 article {
     justify-content: center;
